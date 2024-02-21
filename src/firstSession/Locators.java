@@ -7,6 +7,7 @@ import org.testng.Assert;
 public class Locators {
 	
 	public void testLoc(WebDriver cdriver) {
+		System.out.println("inside testLocaors..");
 		cdriver.findElement(By.id("inputUsername")).sendKeys("TestUser");
 		cdriver.findElement(By.name("inputPassword")).sendKeys("TestUser");
 		cdriver.findElement(By.className("signInBtn")).submit();

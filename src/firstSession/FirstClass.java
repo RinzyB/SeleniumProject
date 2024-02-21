@@ -25,6 +25,7 @@ public class FirstClass {
 		System.out.println("Title is: " + cdriver.getTitle());
 		System.out.println("URL is: " + cdriver.getCurrentUrl());
 		System.out.println("pagesource is: " + cdriver.getPageSource());
+		System.out.println("windowHandle is: " + cdriver.getWindowHandle());
 		// cdriver.close(); // closes only the current open window
 //		cdriver.quit(); // will close all the windows associated
 		
