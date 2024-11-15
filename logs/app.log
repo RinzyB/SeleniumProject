@@ -1,0 +1,86 @@
+2024-11-14 11:39:38 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:39:38 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:39:40 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:39:40 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:41:44 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:41:44 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:41:46 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:41:46 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:43:18 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:43:18 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:43:20 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:43:20 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:47:31 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:47:32 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:47:35 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:47:35 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:48:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:48:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:48:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:48:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:53:27 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:53:27 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:53:29 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:53:29 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 11:58:48 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 11:58:48 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 11:58:50 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 11:58:50 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 12:01:09 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 12:01:09 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 12:01:11 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 12:01:11 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 12:03:52 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-14 12:03:52 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-14 12:03:55 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-14 12:03:55 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-14 12:05:44 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:27 - TestNG BeforeTest setup done..
+2024-11-14 12:05:45 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:33 - Text in Header is: Welcome,Register
+2024-11-14 12:08:02 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:27 - TestNG BeforeTest setup done..
+2024-11-14 12:08:02 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:33 - Text in Header is: Welcome,Register
+2024-11-14 12:11:00 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:28 - TestNG BeforeTest setup done..
+2024-11-14 12:11:01 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:34 - Text in Header is: Welcome,Register
+2024-11-14 12:11:01 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:49 - All test executed!
+2024-11-14 12:13:03 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 12:13:04 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 12:13:04 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:59 - All test executed!
+2024-11-14 12:13:46 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 12:13:46 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 12:13:46 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:54 - Password retrieved!
+2024-11-14 12:13:46 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:59 - All test executed!
+2024-11-14 12:19:49 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 12:19:49 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 12:19:49 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:54 - Password retrieved!
+2024-11-14 12:19:49 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 12:23:12 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 12:23:12 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 12:23:12 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:54 - Password retrieved!
+2024-11-14 12:23:12 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 12:26:46 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 12:26:47 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 12:26:47 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:54 - Password retrieved!
+2024-11-14 12:26:47 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 13:15:44 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 13:15:45 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 13:15:47 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:54 - Password retrieved!
+2024-11-14 13:15:48 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 13:51:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 13:51:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 13:51:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 14:06:23 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 14:06:24 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 14:06:24 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 14:09:36 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 14:09:36 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 14:09:36 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 14:11:32 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-14 14:11:33 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:35 - Text in Header is: Welcome,Register
+2024-11-14 14:11:33 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:60 - All test executed!
+2024-11-14 14:17:58 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-14 14:17:58 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:36 - Text in Header is: Welcome,Register
+2024-11-14 14:17:58 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:55 - Password retrieved!
+2024-11-14 14:17:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:61 - All test executed!
+2024-11-14 17:52:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-14 17:52:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testHeaderMsg:36 - Text in Header is: Welcome,Register
+2024-11-14 17:52:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:testPasswordVisibility:55 - Password retrieved!
+2024-11-14 17:52:59 [36mDEBUG[m ENV:QA TestNGRegisterPageTest:done:61 - All test executed!

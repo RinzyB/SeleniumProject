@@ -1,0 +1,22 @@
+2024-11-11 21:21:51 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - TestNG BeforeTest setup done..
+2024-11-11 21:21:53 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-11 21:24:25 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-11 21:24:25 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-11 21:24:27 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-11 21:24:28 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-11 21:33:56 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-11 21:33:56 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-11 21:33:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-11 21:33:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-11 21:39:14 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-11 21:39:14 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-11 21:39:16 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-11 21:39:16 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-11 21:56:35 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-11 21:56:36 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-11 21:56:38 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-11 21:56:38 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-11 21:59:37 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - BeforeTest setup done..
+2024-11-11 21:59:38 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPlaceholders:49 - PlaceHolders verified!
+2024-11-11 21:59:41 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testPasswordVisibility:60 - Password retrieved!
+2024-11-11 21:59:41 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register

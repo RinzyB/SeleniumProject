@@ -1,0 +1,55 @@
+2024-11-08 09:45:16 [36mDEBUG[m ENV:QA MainClass:main:42 - Title is: Selenium Practice - Student Registration Form
+2024-11-08 09:45:16 [36mDEBUG[m ENV:QA MainClass:main:43 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-08 09:45:16 [36mDEBUG[m ENV:QA MainClass:main:45 - windowHandle is: F782395DFAEC98D357B2E9D5CEDDB470
+2024-11-08 09:45:16 [36mDEBUG[m ENV:QA MainClass:main:48 - Session Id is: ab15da4dd05ea2e5c2b7f0968673c2f5
+2024-11-08 09:45:16 [30mTRACE[m ENV:QA TestPortal:practiceForm:19 - Inside practiceForm()...
+2024-11-08 09:45:17 [36mDEBUG[m ENV:QA TestPortal:practiceForm:35 - uploaded file pic..
+2024-11-08 09:45:18 [36mDEBUG[m ENV:QA TestPortal:practiceForm:40 - Selected City is: 12345 asdf st
+2024-11-08 09:45:18 [30mTRACE[m ENV:QA CaptureTests:takeSS:45 - In takeSS()..
+2024-11-08 09:45:18 [36mDEBUG[m ENV:QA CaptureTests:getFilePath:68 - Checking if SS folder exists..
+2024-11-08 09:45:18 [36mDEBUG[m ENV:QA CaptureTests:stopTestRecording:106 - Stopping test recording..
+2024-11-08 09:45:18 [36mDEBUG[m ENV:QA TestPortal:practiceForm:52 - Completed practiceForm!
+2024-11-08 09:45:18 [30mTRACE[m ENV:QA TestPortal:loginForm:56 - Inside loginForm()...
+2024-11-08 09:45:35 [36mDEBUG[m ENV:QA MainClass:main:42 - Title is: Selenium Practice - Student Registration Form
+2024-11-08 09:45:35 [36mDEBUG[m ENV:QA MainClass:main:43 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-08 09:45:35 [36mDEBUG[m ENV:QA MainClass:main:45 - windowHandle is: C5663D456CDD6001A39B638095D3E552
+2024-11-08 09:45:35 [36mDEBUG[m ENV:QA MainClass:main:48 - Session Id is: 9429dc2786828d713f1e2c9bd104d6fa
+2024-11-08 09:45:35 [30mTRACE[m ENV:QA TestPortal:practiceForm:19 - Inside practiceForm()...
+2024-11-08 09:45:36 [36mDEBUG[m ENV:QA TestPortal:practiceForm:35 - uploaded file pic..
+2024-11-08 09:45:36 [36mDEBUG[m ENV:QA TestPortal:practiceForm:40 - Selected City is: 12345 asdf st
+2024-11-08 09:45:36 [30mTRACE[m ENV:QA CaptureTests:takeSS:45 - In takeSS()..
+2024-11-08 09:45:37 [36mDEBUG[m ENV:QA CaptureTests:getFilePath:68 - Checking if SS folder exists..
+2024-11-08 09:45:37 [36mDEBUG[m ENV:QA CaptureTests:stopTestRecording:106 - Stopping test recording..
+2024-11-08 09:45:37 [36mDEBUG[m ENV:QA TestPortal:practiceForm:52 - Completed practiceForm!
+2024-11-08 09:45:37 [30mTRACE[m ENV:QA TestPortal:loginForm:56 - Inside loginForm()...
+2024-11-08 09:45:37 [30mTRACE[m ENV:QA CaptureTests:takeSS:45 - In takeSS()..
+2024-11-08 10:34:22 [36mDEBUG[m ENV:QA JUnitTestRegisterPage:setUp:29 - TestNG BeforeTest setup done..
+2024-11-08 10:34:22 [36mDEBUG[m ENV:QA JUnitTestRegisterPage:testHeaderMsg:36 - Text in Header is: Welcome,Register
+2024-11-08 10:53:38 [36mDEBUG[m ENV:QA JUnitTestRegisterPage:setUp:29 - TestNG BeforeTest setup done..
+2024-11-08 10:53:38 [36mDEBUG[m ENV:QA JUnitTestRegisterPage:testHeaderMsg:36 - Text in Header is: Welcome,Register
+2024-11-08 11:12:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:29 - TestNG BeforeTest setup done..
+2024-11-08 11:12:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:36 - Text in Header is: Welcome,Register
+2024-11-08 11:17:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 11:17:59 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 11:19:28 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 11:19:29 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 11:19:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 11:19:57 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 11:26:49 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 11:26:50 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 13:45:46 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 13:45:47 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 13:54:30 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 13:54:31 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 13:55:21 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:30 - TestNG BeforeTest setup done..
+2024-11-08 13:55:23 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:37 - Text in Header is: Welcome,Register
+2024-11-08 14:04:46 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:32 - TestNG BeforeTest setup done..
+2024-11-08 14:04:46 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-08 14:17:40 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - TestNG BeforeTest setup done..
+2024-11-08 14:17:42 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-08 14:21:17 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - TestNG BeforeTest setup done..
+2024-11-08 14:21:21 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-08 14:22:34 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - TestNG BeforeTest setup done..
+2024-11-08 14:22:36 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
+2024-11-08 14:23:28 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:setUp:33 - TestNG BeforeTest setup done..
+2024-11-08 14:23:32 [36mDEBUG[m ENV:QA JUnitRegisterPageTest:testHeaderMsg:39 - Text in Header is: Welcome,Register
