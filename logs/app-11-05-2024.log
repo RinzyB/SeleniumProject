@@ -1,0 +1,63 @@
+2024-11-05 13:46:08 [36mDEBUG[m ENV:QA FirstClass:main:33 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 13:46:08 [36mDEBUG[m ENV:QA FirstClass:main:34 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 13:46:08 [36mDEBUG[m ENV:QA FirstClass:main:36 - windowHandle is: 1818C3F85D27F47DA90E2E8682928B56
+2024-11-05 13:46:08 [36mDEBUG[m ENV:QA FirstClass:main:39 - Session Id is: 48ba50c2059e8e5883c7cc331be844bc
+2024-11-05 13:46:08 [30mTRACE[m ENV:QA TestLoginForm:login:16 - Inside login()...
+2024-11-05 13:46:09 [36mDEBUG[m ENV:QA TestLoginForm:login:31 - uploaded file pic..
+2024-11-05 16:21:19 [36mDEBUG[m ENV:QA FirstClass:main:33 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 16:21:19 [36mDEBUG[m ENV:QA FirstClass:main:34 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 16:21:19 [36mDEBUG[m ENV:QA FirstClass:main:36 - windowHandle is: 254A22A617E02E452B25DA948D6B9483
+2024-11-05 16:21:19 [36mDEBUG[m ENV:QA FirstClass:main:39 - Session Id is: 10914b917dc282c95145614f556d4b0e
+2024-11-05 16:21:19 [30mTRACE[m ENV:QA TestLoginForm:login:16 - Inside login()...
+2024-11-05 16:21:20 [36mDEBUG[m ENV:QA TestLoginForm:login:31 - uploaded file pic..
+2024-11-05 16:44:33 [36mDEBUG[m ENV:QA FirstClass:main:38 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 16:44:33 [36mDEBUG[m ENV:QA FirstClass:main:39 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 16:44:33 [36mDEBUG[m ENV:QA FirstClass:main:41 - windowHandle is: 47F8181CF5EAC14F09E5BFA9777345AE
+2024-11-05 16:44:33 [36mDEBUG[m ENV:QA FirstClass:main:44 - Session Id is: 37a5dd9af0d8d9bb4700264b7f188229
+2024-11-05 16:44:33 [30mTRACE[m ENV:QA TestLoginForm:practiceForm:16 - Inside practiceForm()...
+2024-11-05 16:44:34 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:31 - uploaded file pic..
+2024-11-05 16:44:35 [30mTRACE[m ENV:QA TestLoginForm:loginForm:43 - Inside loginForm()...
+2024-11-05 16:47:13 [36mDEBUG[m ENV:QA FirstClass:main:43 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 16:47:13 [36mDEBUG[m ENV:QA FirstClass:main:44 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 16:47:13 [36mDEBUG[m ENV:QA FirstClass:main:46 - windowHandle is: AB842055DB9D4663C51FB69037BF7128
+2024-11-05 16:47:13 [36mDEBUG[m ENV:QA FirstClass:main:49 - Session Id is: e3de45ba1f801ae39aa40443fcdc8327
+2024-11-05 16:47:13 [30mTRACE[m ENV:QA TestLoginForm:practiceForm:16 - Inside practiceForm()...
+2024-11-05 16:47:13 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:31 - uploaded file pic..
+2024-11-05 16:47:14 [30mTRACE[m ENV:QA TestLoginForm:loginForm:43 - Inside loginForm()...
+2024-11-05 16:48:56 [36mDEBUG[m ENV:QA FirstClass:main:43 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 16:48:56 [36mDEBUG[m ENV:QA FirstClass:main:44 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 16:48:56 [36mDEBUG[m ENV:QA FirstClass:main:46 - windowHandle is: 288AB515BA35E3669D578CD16920AF66
+2024-11-05 16:48:56 [36mDEBUG[m ENV:QA FirstClass:main:49 - Session Id is: 78bb706d77df87a840aa2b786518ff28
+2024-11-05 16:48:56 [30mTRACE[m ENV:QA TestLoginForm:practiceForm:16 - Inside practiceForm()...
+2024-11-05 16:48:57 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:31 - uploaded file pic..
+2024-11-05 16:48:57 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:40 - Completed practiceForm..
+2024-11-05 16:48:57 [30mTRACE[m ENV:QA TestLoginForm:loginForm:44 - Inside loginForm()...
+2024-11-05 22:25:41 [36mDEBUG[m ENV:QA FirstClass:main:43 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 22:25:41 [36mDEBUG[m ENV:QA FirstClass:main:44 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 22:25:41 [36mDEBUG[m ENV:QA FirstClass:main:46 - windowHandle is: 91405F950C3F314D52BFDF0D9390A1F9
+2024-11-05 22:25:41 [36mDEBUG[m ENV:QA FirstClass:main:49 - Session Id is: 7056516f06590720baa4db2606c6a1f0
+2024-11-05 22:25:41 [30mTRACE[m ENV:QA TestLoginForm:practiceForm:16 - Inside practiceForm()...
+2024-11-05 22:25:42 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:31 - uploaded file pic..
+2024-11-05 22:25:42 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:40 - Completed practiceForm..
+2024-11-05 22:25:42 [30mTRACE[m ENV:QA TestLoginForm:loginForm:44 - Inside loginForm()...
+2024-11-05 22:25:43 [36mDEBUG[m ENV:QA TestLoginForm:loginForm:48 - Completed loginForm..
+2024-11-05 22:47:40 [36mDEBUG[m ENV:QA FirstClass:main:43 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 22:47:40 [36mDEBUG[m ENV:QA FirstClass:main:44 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 22:47:40 [36mDEBUG[m ENV:QA FirstClass:main:46 - windowHandle is: ADEF720ED842A9B90C1A7B65B4CBE03A
+2024-11-05 22:47:40 [36mDEBUG[m ENV:QA FirstClass:main:49 - Session Id is: e5263f9419769f342469c3c969f65f7e
+2024-11-05 22:47:40 [30mTRACE[m ENV:QA TestLoginForm:practiceForm:20 - Inside practiceForm()...
+2024-11-05 22:47:41 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:34 - uploaded file pic..
+2024-11-05 22:47:41 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:45 - Selected City is: Lucknow
+2024-11-05 22:47:42 [36mDEBUG[m ENV:QA TestLoginForm:practiceForm:59 - Completed practiceForm!
+2024-11-05 22:47:42 [30mTRACE[m ENV:QA TestLoginForm:loginForm:63 - Inside loginForm()...
+2024-11-05 22:47:43 [36mDEBUG[m ENV:QA TestLoginForm:loginForm:67 - Completed loginForm!
+2024-11-05 23:01:52 [36mDEBUG[m ENV:QA FirstClass:main:43 - Title is: Selenium Practice - Student Registration Form
+2024-11-05 23:01:53 [36mDEBUG[m ENV:QA FirstClass:main:44 - URL is: https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php
+2024-11-05 23:01:53 [36mDEBUG[m ENV:QA FirstClass:main:46 - windowHandle is: 82B0B54F9FF015417B673770E00EEC53
+2024-11-05 23:01:53 [36mDEBUG[m ENV:QA FirstClass:main:49 - Session Id is: 9f228b7fe8a16d9592410eebb3b72546
+2024-11-05 23:01:53 [30mTRACE[m ENV:QA TestPortal:practiceForm:20 - Inside practiceForm()...
+2024-11-05 23:01:53 [36mDEBUG[m ENV:QA TestPortal:practiceForm:34 - uploaded file pic..
+2024-11-05 23:01:53 [36mDEBUG[m ENV:QA TestPortal:practiceForm:39 - Selected City is: 12345 asdf st
+2024-11-05 23:01:54 [36mDEBUG[m ENV:QA TestPortal:practiceForm:57 - Completed practiceForm!
+2024-11-05 23:01:54 [30mTRACE[m ENV:QA TestPortal:loginForm:61 - Inside loginForm()...
+2024-11-05 23:01:55 [36mDEBUG[m ENV:QA TestPortal:loginForm:73 - Completed loginForm!

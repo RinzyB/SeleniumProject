@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Header retrieved from Page was: Welcome,Register]]>
+    </line>
+    <line>
+      <![CDATA[PlaceHolders verified!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-14T12:05:41 PST" name="TestSuite" finished-at="2024-11-14T12:05:45 PST" duration-ms="3594">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T12:05:41 PST" name="SeleniumTestNG" finished-at="2024-11-14T12:05:45 PST" duration-ms="3594">
+      <class name="test.java.TestNGRegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.java.TestNGRegisterPageTest@101639ae]" started-at="2024-11-14T12:05:41 PST" name="setUp" finished-at="2024-11-14T12:05:44 PST" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHeaderMsg()[pri:1, instance:test.java.TestNGRegisterPageTest@101639ae]" started-at="2024-11-14T12:05:44 PST" name="testHeaderMsg" finished-at="2024-11-14T12:05:45 PST" duration-ms="360" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Header retrieved from Page was: Welcome,Register]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHeaderMsg -->
+        <test-method signature="testPlaceholders()[pri:0, instance:test.java.TestNGRegisterPageTest@101639ae]" started-at="2024-11-14T12:05:44 PST" name="testPlaceholders" finished-at="2024-11-14T12:05:45 PST" duration-ms="633" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[PlaceHolders verified!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPlaceholders -->
+      </class> <!-- test.java.TestNGRegisterPageTest -->
+    </test> <!-- SeleniumTestNG -->
+  </suite> <!-- TestSuite -->
+</testng-results>

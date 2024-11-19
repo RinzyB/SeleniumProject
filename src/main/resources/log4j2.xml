@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="ERROR">
+
+ 	<!-- Logging Properties -->
+    <Properties>
+        <Property name="APP_LOG_ROOT">logs</Property>
+        <Property name="APP_ENV">QA</Property>
+        <Property name="LOG_PATTERN">%d{yyyy-MM-dd HH:mm:ss} %highlight{%-5p} ENV:${APP_ENV} %c{1}:%M:%L - %m%n</Property>
+    </Properties>
+    
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="${LOG_PATTERN}" />
+        </Console>
+        
+        <!-- File Appender >
+        <File name="FileAppender" fileName="hcapp.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+        </File-->
+        
+        <RollingFile name="FileAppender" fileName="${APP_LOG_ROOT}/app.log" filePattern="${APP_LOG_ROOT}/app-%d{MM-dd-yyyy}.log">
+		    <PatternLayout>
+		        <Pattern>${LOG_PATTERN}</Pattern>
+		    </PatternLayout>
+		    <Policies>
+                <!-- Roll file based on size >
+                <SizeBasedTriggeringPolicy size="10MB"/-->
+                <!-- Roll file every day -->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+		</RollingFile>
+    </Appenders>
+
+    <Loggers>    
+        <!-- Root Logger -->
+        
+        <Root level="DEBUG">
+            <AppenderRef ref="ConsoleAppender" />
+            <AppenderRef ref="FileAppender" />
+        </Root>
+        
+        <!-- Logger for specific packages or classes -->
+        <Logger name="com.test" level="TRACE" additivity="false">
+            <AppenderRef ref="ConsoleAppender" />
+            <AppenderRef ref="FileAppender"/>
+        </Logger>
+    </Loggers>
+</Configuration>

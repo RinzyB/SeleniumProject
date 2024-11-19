@@ -1,0 +1,14 @@
+<project name="Test Selenium Web">
+	<body>
+		<menu name="Main Menu">
+			<item name="Menu" href="index.html" />
+			<item name="Project Info" href="project-info.html" />
+			<item name="Dependencies" href="dependencies.html" />
+			<item name="Plugin Management" href="plugin-management.html" />
+			<item name="Plugin" href="plugins.html" />
+			<item name="Summary" href="summary.html" />
+			<item name="Project Reports" href="project-reports.html" />
+			<item name="Test Logs" href="../surefire-reports/TestSuite-output.txt" />
+		</menu>
+	</body>
+</project>
